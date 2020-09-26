@@ -1,0 +1,37 @@
+h2 {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 8px;
+}
+
+div {
+    margin-bottom: 15px;
+    margin-top: 8px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    height: 30px;
+}
+
+.button-green {
+    transition-duration: 0.4s;
+}
+
+.button {
+    transition-duration: 0.4s;
+}
+
+.button-green :hover {
+    background-color: #0f992d;
+    color: #FFFFFF;
+}
